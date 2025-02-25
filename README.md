@@ -1,3 +1,5 @@
+##NAME: G NITIN KARTHIKEYAN  
+##ADMISSION NUMBER:212224040227
 # Ex.No:1a  			Study of Socket Programming
 
 ## Aim: 
